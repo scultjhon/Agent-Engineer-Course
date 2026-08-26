@@ -8,14 +8,14 @@ An open, practical learning path for enterprise Agent engineering, Coding Agents
 
 - **[Open the online course](https://scultjhon.github.io/Agent-Engineer-Course/)**
 - **[Course roadmap](https://scultjhon.github.io/Agent-Engineer-Course/roadmap/)**
-- **[Continue with the latest published lesson: Lesson 11 — Kubernetes Jobs](https://scultjhon.github.io/Agent-Engineer-Course/fundamentals/11-kubernetes-job/)**
+- **[Continue with the latest published lesson: Lesson 12 — Kubernetes RBAC](https://scultjhon.github.io/Agent-Engineer-Course/fundamentals/12-kubernetes-rbac/)**
 - **[Source-code study](https://scultjhon.github.io/Agent-Engineer-Course/source-code/)** — Codex, OpenCode, Kimi Code, and Claude Code public mechanisms
 - **[Model engineering](https://scultjhon.github.io/Agent-Engineer-Course/model-engineering/)** — Hugging Face and model-engineering topics
 - **[Labs](https://scultjhon.github.io/Agent-Engineer-Course/labs/)**
 
 ## Current published progress
 
-Lessons 1–11 are currently in the repository. The course is designed to expand toward enterprise Agent development, deployment, debugging, model engineering, evaluation, observability, security, and a final Mini Enterprise Agent Platform.
+Lessons 1–12 are currently in the repository. Lesson 12 introduces Kubernetes ServiceAccount, Role/RoleBinding, Secret boundaries, SecurityContext, and least privilege for Agent Scheduler and Runner workloads. Next is NetworkPolicy and Agent egress control.
 
 ## Local preview
 
