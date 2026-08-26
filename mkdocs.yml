@@ -1,7 +1,9 @@
 site_name: Agent Engineer Course
 site_description: A practical, open learning path for enterprise agent engineering
-site_url: https://example.github.io/agent-engineer-course/
-repo_name: agent-engineer-course
+site_url: https://scultjhon.github.io/Agent-Engineer-Course/
+repo_url: https://github.com/scultjhon/Agent-Engineer-Course
+repo_name: scultjhon/Agent-Engineer-Course
+
 theme:
   name: material
   language: en
@@ -9,7 +11,11 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - toc.follow
     - search.suggest
+    - search.highlight
     - content.code.copy
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -18,6 +24,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle: {icon: material/brightness-4, name: Switch to light mode}
+
 nav:
   - Home: index.md
   - Roadmap: roadmap.md
