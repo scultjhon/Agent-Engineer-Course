@@ -40,6 +40,7 @@ nav:
       - Lesson 09 — HTTP, SSE, WebSocket: fundamentals/09-networking.md
       - Lesson 10 — Nginx, DNS, TLS: fundamentals/10-nginx-dns-tls.md
       - Lesson 11 — Kubernetes Jobs: fundamentals/11-kubernetes-job.md
+      - Lesson 12 — Kubernetes RBAC: fundamentals/12-kubernetes-rbac.md
   - Source study:
       - Overview: source-code/index.md
       - Codex: source-code/codex.md
